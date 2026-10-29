@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-LaTeX+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 TeXstudio Free Installer** — TeXstudio is a free, open-source LaTeX editor for Windows, macOS, and Linux with an integrated PDF viewer, advanced auto-completion, syntax checking, and code folding. Works without internet access, no account required. Full offline installation.
+**💻 TeXstudio Free Installer** — TeXstudio is a free, cross-platform LaTeX editor with integrated PDF viewer, syntax highlighting, auto-completion, spell checking, and a comprehensive set of LaTeX shortcuts. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About TeXstudio
 
-TeXstudio is a free, open-source LaTeX editor for Windows, macOS, and Linux with an integrated PDF viewer, advanced auto-completion, syntax checking, and code folding. Features include structure navigator, table and matrix assistants, and a bibliography manager. TeXstudio is one of the most feature-rich and actively developed LaTeX editors, favored by academics and researchers for writing scientific papers and theses.
+TeXstudio is a free, cross-platform LaTeX editor with integrated PDF viewer, syntax highlighting, auto-completion, spell checking, and a comprehensive set of LaTeX shortcuts. One of the most popular LaTeX editors with a balance of features and accessibility.
 
 ---
 
 ## ❌ Problem: TeXstudio is hard to access
 
-- **LaTeX Prerequisite** — Requires LaTeX distribution (TeX Live, MiKTeX) installed separately
-- **Learning Curve** — LaTeX markup language itself requires significant learning investment
-- **Compilation Time** — Large documents can be slow to compile for preview
-- **Error Messages** — LaTeX error messages can be cryptic and difficult to diagnose
+- **LaTeX Required** — Requires LaTeX distribution (TeX Live or MiKTeX) installed separately
+- **Learning Curve** — LaTeX itself has a steep learning curve for new users
+- **Preview Compilation** — PDF preview requires compiling the document on each change
+- **Error Diagnosis** — LaTeX error messages are notoriously cryptic for beginners
 
 ---
 
@@ -121,7 +121,7 @@ TeXstudio is a free, open-source LaTeX editor for Windows, macOS, and Linux with
 
 ---
 
-**TeXstudio Free Installer** — TeXstudio is a free, open-source LaTeX editor for Windows, macOS, and Linux with an integrated PDF viewer, advanced auto-completion, syntax checking, and code folding. Install without internet connection today!
+**TeXstudio Free Installer** — TeXstudio is a free, cross-platform LaTeX editor with integrated PDF viewer, syntax highlighting, auto-completion, spell checking, and a comprehensive set of LaTeX shortcuts. Install without internet connection today!
 
 <div align="center">
 
